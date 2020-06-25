@@ -10,3 +10,5 @@ propósito persuadir o convencer al lector sobre un punto de vista determinado
 Diseño del texto. Puede cambiar el diseño del texto en el gráfico. Por ejemplo, puede especificar que el 
 texto se muestre de arriba abajo o que haya más espacio entre el texto y el marco donde aparece. 
 Seleccione un marco de texto en el gráfico como, por ejemplo, un cuadro de texto, anotación o título de eje.
+
+Fin del archivo y la tarea
